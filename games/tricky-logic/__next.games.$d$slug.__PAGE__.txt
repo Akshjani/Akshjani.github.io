@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/40i-5s6v0jp7e.js"
+3:"/_next/static/chunks/0rvkdx0l4kgnf.js"
+4:"/_next/static/chunks/2ojuwj779_opx.js"
+5:I[38462,["$2","$3","$4"],"default"]
+6:I[79651,["$2","$3","$4"],"default"]
+7:I[88909,["$2","$3","$4"],"default"]
+8:I[60613,["$2","$3","$4"],"default"]
+9:I[38025,["$2","$3","$4"],"default"]
+a:I[96726,["$2","$3","$4"],"default"]
+b:I[39756,["$2","$3","$4"],"default"]
+c:"/_next/static/chunks/2mewo_6kd9nc4.js"
+d:I[98168,["$2","$3","$4","$c"],"default"]
+e:I[37457,["$2","$3","$4"],"default"]
+f:I[57895,["$2","$3","$4"],"default"]
+10:I[40588,["$2","$3","$4"],"default"]
+11:I[44642,["$2","$3","$4"],"default"]
+12:I[68344,["$2","$3","$4"],"default"]
+1b:"/_next/static/chunks/3zde6ixhoqub4.js"
+1c:I[46119,["$2","$3","$4","$1b"],"default"]
+1d:I[22016,["$2","$3","$4","$1b"],""]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4"],"$27"]
+29:"$Sreact.suspense"
+:HL["/_next/static/chunks/17mt0ww_q89-i.css","style"]
+14:X
+17:X
+17:C
+1a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"mx-auto w-[min(900px,100%-32px)] py-12 md:py-16","children":[["$","$L1c",null,{"ids":["first-mission","tech-explorer"]}],["$","$L1d",null,{"href":"/#games","className":"text-sm text-muted hover:text-fg","children":"← All games"}],["$","div",null,{"className":"mt-6 flex items-center gap-4","children":[false,["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight md:text-4xl","children":"Tricky Logic"}],["$","div",null,{"className":"mt-2 flex flex-wrap gap-2","children":[["$","span","Puzzle",{"className":"rounded-full border border-line bg-surface px-3 py-0.5 text-sm text-muted","children":"Puzzle"}],["$","span","Casual",{"className":"rounded-full border border-line bg-surface px-3 py-0.5 text-sm text-muted","children":"Casual"}],["$","span","Android",{"className":"rounded-full border border-line bg-surface px-3 py-0.5 text-sm text-muted","children":"Android"}]]}]]}]]}],["$","p",null,{"className":"mt-6 text-lg text-muted","children":"A 50-level casual logic puzzle game."}],"$undefined",["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"mb-3 text-xs font-bold uppercase tracking-[0.14em] text-accent","children":"Gameplay"}],"$L1e"]}],false,"$L1f","$L20","$undefined","$L21"]}],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$14"}}]]
+18:[["children",{"s":{"n":"slug","t":"d","k":"tricky-logic","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"p":"$@19","v":"$17","s":"$14"},"c":"$Q1a"}]]
+15:[["children",{"s":"games","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"p":"$@16","v":"$17","s":"$14"},"c":"$Q18"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/17mt0ww_q89-i.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/40i-5s6v0jp7e.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0rvkdx0l4kgnf.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2ojuwj779_opx.js","async":true}]],["$","html",null,{"lang":"en","className":"ec5Qua_variable _2vxq1q_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var r=JSON.parse(localStorage.getItem('recruiter')||'false');var d=document.documentElement;if(r){d.setAttribute('data-recruiter','1');d.setAttribute('data-intro','done')}if(sessionStorage.getItem('intro'))d.setAttribute('data-intro','done')}catch(e){}"}}]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L5",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-2 focus:top-2 focus:z-[200] focus:rounded-lg focus:bg-accent focus:px-4 focus:py-2","children":"Skip to content"}],["$","$La",null,{}],["$","main",null,{"id":"main","className":"pb-24","children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{"children":["$","$Le",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2mewo_6kd9nc4.js","async":true}]],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"border-t border-line py-7 pb-28 text-center text-sm text-muted","children":["© ",2026," Aakash Jani · Senior Unity Game Developer"]}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}]]}]}]]}]]}],"p":"$@13","v":null,"s":"$14"},"c":"$Q15"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tricky Logic | Aakash Jani"}],["$","meta","1",{"name":"description","content":"A 50-level casual logic puzzle game."}],["$","meta","2",{"property":"og:title","content":"Aakash Jani | Senior Unity Game Developer & Team Lead"}],["$","meta","3",{"property":"og:description","content":"30+ games shipped. Multiplayer, AR/VR, mobile and WebGL. 99.5% crash-free sessions."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Aakash Jani | Senior Unity Game Developer & Team Lead"}],["$","meta","7",{"name":"twitter:description","content":"30+ games shipped. Multiplayer, AR/VR, mobile and WebGL. 99.5% crash-free sessions."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2a","v":null,"s":"$14"}},"a":"$@2b","u":"$@2c","b":"051TI_pR7azTFmuWmZ3G-"}
+2d:I[67185,["$2","$3","$4","$1b"],"default"]
+2e:I[97367,["$2","$3","$4"],"OutletBoundary"]
+1e:["$","$L2d",null,{"id":"1UK0YFNBo-K7GSzB4Ua_01PRGQMALDfe8","title":"Tricky Logic"}]
+1f:["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"mb-3 text-xs font-bold uppercase tracking-[0.14em] text-accent","children":"What's in the game"}],["$","ul",null,{"className":"space-y-2 text-muted","children":[["$","li","50 levels",{"className":"relative pl-5 before:absolute before:left-0 before:text-accent before:content-['•']","children":"50 levels"}],["$","li","Google Mobile Ads",{"className":"relative pl-5 before:absolute before:left-0 before:text-accent before:content-['•']","children":"Google Mobile Ads"}],["$","li","Firebase Analytics",{"className":"relative pl-5 before:absolute before:left-0 before:text-accent before:content-['•']","children":"Firebase Analytics"}]]}]]}]
+20:["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"mb-3 text-xs font-bold uppercase tracking-[0.14em] text-accent","children":"Tools"}],["$","p",null,{"className":"text-muted","children":"Unity, Google Mobile Ads, Firebase Analytics"}]]}]
+21:["$","$L1d",null,{"href":"/games/think-sharp","className":"mt-14 block rounded-2xl border border-line bg-surface p-5 transition hover:border-accent","children":[["$","span",null,{"className":"text-sm text-muted","children":"Next project"}],["$","div",null,{"className":"font-semibold","children":["Think Sharp"," →"]}]]}]
+22:["$","script","script-0",{"src":"/_next/static/chunks/3zde6ixhoqub4.js","async":true}]
+23:["$","$L2e",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
+14:300
+2f:null
+2c:true
+14:C
+2b:0
+19:"$undefined"
+16:"$undefined"
+13:"$undefined"
+2a:"$undefined"
+24:"$undefined"

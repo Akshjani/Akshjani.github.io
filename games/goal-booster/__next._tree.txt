@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/17mt0ww_q89-i.css","style"]
+:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/237858b39a32779d-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/assets/goal-booster/icon.jpg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"goal-booster","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"games","h":96,"c":"$Q2"}]]
+0:{"b":"051TI_pR7azTFmuWmZ3G-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
